@@ -2587,7 +2587,7 @@ input, select, textarea {
 		}
 
 /* Image */
-
+	
 	.image {
 		border: 0;
 		display: inline-block;
@@ -2636,6 +2636,9 @@ input, select, textarea {
 			display: block;
 			margin: 4rem 0;
 			width: 100%;
+			height: 450px;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 			.image.main:first-child {
@@ -2652,8 +2655,8 @@ input, select, textarea {
 				margin: 2rem 0;
 			}
 
+			/* to center image removed margin:2rem 0 */
 			.image.main {
-				margin: 2rem 0;
 			}
 
 		}
@@ -2945,7 +2948,7 @@ input, select, textarea {
 		}
 
 		header.major {
-			margin: 0 0 4rem 0;
+			margin: 0 0 1rem 0;
 			text-align: center;
 		}
 
@@ -3283,8 +3286,9 @@ input, select, textarea {
 
 /* Intro */
 
+	/* Lion Icon in my title  */
 	#lion-icon{
-		font-size: ;
+		font-size: 2em;
 	}
 
 	#intro {
@@ -3782,8 +3786,9 @@ input, select, textarea {
 			text-align: center;
 		}
 
+		/* Altered from 8rem to 4 rem to change spacing of article.post */
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 4rem 4rem 4rem 4rem ;
 		}
 
 			#main > .post header.major > .date {
@@ -3801,17 +3806,17 @@ input, select, textarea {
 			}
 
 			@media screen and (max-width: 1280px) {
-
+				/* Changed from 6 */
 				#main > .post {
-					padding: 6rem 4rem 4rem 4rem ;
+					padding: 4rem 4rem 4rem 4rem ;
 				}
 
 			}
 
 			@media screen and (max-width: 736px) {
-
+				/* Changed from 4 */
 				#main > .post {
-					padding: 4rem 2rem 2rem 2rem ;
+					padding: 2rem 2rem 2rem 2rem ;
 				}
 
 					#main > .post header.major > .date {

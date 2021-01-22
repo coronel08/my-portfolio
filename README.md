@@ -4,6 +4,16 @@ Making a portfolio website for myself.
 Icons are fontawesome, look into Jquery
 
 
+## ToDo
+* [ ] Fill with Photos
+    * [ ] Size Photos
+* [ ] Fill Icons with personal links like github and linked in
+* [ ] Grammar Check
+* [ ] Change background 
+* [ ] Change menu (focus on making single page)
+* [ ] Make email click open up email
+
+
 ### Resources
 **HTML Templates**
 [HTML5up](https://html5up.net/)
