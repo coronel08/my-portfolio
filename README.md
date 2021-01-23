@@ -5,11 +5,11 @@ Icons are fontawesome, look into Jquery
 
 
 ## ToDo
+* [x] Change background photo
 * [ ] Fill with Photos
     * [ ] Size Photos
 * [ ] Fill Icons with personal links like github and linked in
 * [ ] Grammar Check
-* [ ] Change background 
 * [ ] Change menu (focus on making single page)
 * [ ] Make email click open up email
 
