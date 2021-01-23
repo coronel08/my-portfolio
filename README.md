@@ -9,9 +9,12 @@ Icons are fontawesome, look into Jquery
 * [ ] Fill with Photos
     * [ ] Size Photos
 * [ ] Fill Icons with personal links like github and linked in
+    * [ ] Still need Linkedin 
 * [ ] Grammar Check
-* [ ] Change menu (focus on making single page)
-* [ ] Make email click open up email
+* [x] Change menu (focus on making single page)
+* [ ] Make email click open up email form
+* [ ] change photos to modal?
+* [ ] dockerize and deploy
 
 
 ### Resources
