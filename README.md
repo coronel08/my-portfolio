@@ -14,7 +14,7 @@ Icons are fontawesome, look into Jquery
 * [x] Change menu (focus on making single page)
 * [ ] Make email click open up email form
 * [ ] change photos to modal?
-* [ ] dockerize and deploy
+* [x] Dockerize and Deploy
 
 
 ### Resources
