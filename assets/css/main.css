@@ -2653,11 +2653,12 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.image.fit {
-				margin: 2rem 0;
+				margin: 1rem 0;
 			}
 
 			/* to center image removed margin:2rem 0 */
 			.image.main {
+				margin: 1rem 0;
 			}
 
 		}
