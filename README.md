@@ -6,13 +6,13 @@ Icons are fontawesome, look into Jquery
 
 ## ToDo
 * [x] Change background photo
-* [ ] Fill with Photos
-    * [ ] Size Photos
-* [ ] Fill Icons with personal links like github and linked in
-    * [ ] Still need Linkedin 
+* [x] Fill with Photos
+    * [x] Size and Compress Photos
+* [x] Fill Icons with personal links like github and linked in
+    * [x] Still need Linkedin 
 * [ ] Grammar Check
 * [x] Change menu (focus on making single page)
-* [ ] Make email click open up email form
+* [x] Make email click open up email form
 * [ ] change photos to modal?
 * [x] Dockerize and Deploy
 
