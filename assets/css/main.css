@@ -2841,6 +2841,10 @@ input, select, textarea {
 
 /* List */
 
+	.quiz-bullets{
+		text-align: left;
+	}
+
 	ol {
 		list-style: decimal;
 		margin: 0 0 2rem 0;
@@ -3868,7 +3872,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				padding: 4rem;
+				padding: 2rem;
 				width: 50%;
 			}
 
